@@ -1,9 +1,12 @@
-Hi, I'm Prarthana! 👋
-I'm a B.Sc. (Hons) Computing student with a strong academic background in web development. I have a passion for building robust and user-friendly applications and am currently expanding my skills by learning Flutter for mobile app development.
+# **Hi, I'm Prarthana!** 👋
+
+I'm a B.Sc. (Hons) Computing student with a strong academic background in **web development**. I have a passion for building robust and user-friendly applications and am currently expanding my skills by learning **Flutter for mobile app development**.
 
 I enjoy exploring new technologies and solving real-world problems. My interest in mobile development complements my web skills, allowing me to build comprehensive solutions across different platforms.
 
-### 💻 My Technical Skills
+---
+
+## **💻 My Technical Skills**
 
 | Skills |
 | :--- |
@@ -12,7 +15,11 @@ I enjoy exploring new technologies and solving real-world problems. My interest 
 | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> |
 | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/UI/UX_Design-gray?style=for-the-badge" alt="UI/UX Design" /> |
 
-📫 Connect with Me
-LinkedIn: www.linkedin.com/in/prarthana-shahi-044732338
+---
 
-Email: shahiprarthana100@gmail.com
+## **📫 Connect with Me**
+
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/prarthana-shahi-044732338)
+* **Email:** [My Email Address](mailto:shahiprarthana100@gmail.com)
+
+---
