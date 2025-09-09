@@ -14,9 +14,3 @@ Languages	Web Technologies	Mobile Development	Tools & Platforms
 LinkedIn: www.linkedin.com/in/prarthana-shahi-044732338
 
 Email: shahiprarthana100@gmail.com
-
-My GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrarthanaShahi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Prarthana's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" alt="Prarthana's GitHub Streak" />
-</div>
